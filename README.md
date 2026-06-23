@@ -1,2 +1,0 @@
-# Guarantee
-Bot for telegram
